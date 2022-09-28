@@ -1,0 +1,15 @@
+{
+  "name": "wasm_candid_generator",
+  "collaborators": [
+    "daltoncoder <daltoncoder2@gmail.com>"
+  ],
+  "version": "0.1.1",
+  "files": [
+    "wasm_candid_generator_bg.wasm",
+    "wasm_candid_generator.js",
+    "wasm_candid_generator.d.ts"
+  ],
+  "module": "wasm_candid_generator.js",
+  "types": "wasm_candid_generator.d.ts",
+  "sideEffects": false
+}
